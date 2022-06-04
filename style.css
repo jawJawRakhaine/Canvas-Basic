@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#canvas{
+    width: 50vw;
+    height: 50vh;
+    border: 1px solid black;
+    border-radius: 10px;
+}
